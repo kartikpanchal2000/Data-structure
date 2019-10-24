@@ -172,6 +172,7 @@ void displaybeg(){int j;
 			printf("\nElement at position %d : %d",j+1,a[j]);
 		}
 	}
+	printf("Done");
 }
 void displaylast(){int j;
 	if(i==-1){
